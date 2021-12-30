@@ -1,4 +1,4 @@
-# api-reversãoString
+# api-reversaoString
 
 Projeto que sobe um Container e, neste, uma API RESTful com o Swagger
 A API inverte os caracteres de uma palavra ou frase.
