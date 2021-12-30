@@ -1,6 +1,7 @@
 # api-reversaoString
 
-Projeto que sobe um Container e, neste, uma API RESTful com o Swagger
+Projeto que sobe um Container e, neste, uma API RESTful com o Swagger.
+
 A API inverte os caracteres de uma palavra ou frase.
 
 ## Getting Started
@@ -11,6 +12,19 @@ Para executar a aplicação, basta compilar o Docker e executar o mesmo com os s
 docker-compose build
 docker-compose up
 ```
+
+Vá para o endereço http://localhost:9000/docs/.
+
+## Preview
+
+<table align="center">
+   <tr>
+    <td valign="top"><img src="preview.gif"> </td>
+    
+   </tr>
+ </table>
+ <br>
+ 
 
 ## Built With
 
