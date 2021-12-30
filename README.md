@@ -1,8 +1,7 @@
-### Exemplo de Readme para o seu projeto
-
-# api-sentimentos
+# api-reversãoString
 
 Projeto que sobe um Container e, neste, uma API RESTful com o Swagger
+A API inverte os caracteres de uma palavra ou frase.
 
 ## Getting Started
 
@@ -22,5 +21,6 @@ docker-compose up
 ## Authors
 
 * **Patrick Luiz** - *Initial work*
+* **Patrick Luiz** - *Last Update*
 
 ## Exemplo de template copiado de: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
